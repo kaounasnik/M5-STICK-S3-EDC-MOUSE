@@ -38,8 +38,8 @@ Place it flat on a desk, tilt to steer the cursor, and twist it like a rotary di
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
-   cd YOUR_REPO
+   git clone [https://github.com/kaounasnik/M5-STICK-S3-EDC-MOUSE.git](https://github.com/kaounasnik/M5-STICK-S3-EDC-MOUSE.git)
+   cd M5-STICK-S3-EDC-MOUSE
    ```
 2. Open the folder in VS Code and wait for PlatformIO to finish initializing.
 3. Connect your M5StickS3 over USB-C and click **PlatformIO: Upload (`→`)** in the bottom status bar.
